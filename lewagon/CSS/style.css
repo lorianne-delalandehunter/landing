@@ -5,6 +5,8 @@
 @import url("components/banner.css");
 @import url("components/card.css");
 @import url("components/shanghai.css");
+@import url("components/paris.css");
+@import url("components/rio.css");
 
 body {
 	font-family: 'Lora', serif;
